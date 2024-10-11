@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marekfoo2
-- 👀 I’m interested in diving into new efficient technology
-- 🌱 I’m currently learning Rust programming language
+- 👋 Hi, I’m MarekFoo
+- 👀 I’m interested in looking for holy grail of programming language 
+- 🌱 I’m currently learning new language each month
 - 💞️ I’m looking to collaborate on ... currently I'm looking for a topic which is connected with Rust
 - 📫 How to reach me - I'm on biuro@mfconsulting.pl
 - 😄 Pronouns: fast, sporty and elastic
